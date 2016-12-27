@@ -23,7 +23,7 @@ github_username:  mufasa1976
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-midnight
 gems:
   - jekyll-feed
 exclude:
